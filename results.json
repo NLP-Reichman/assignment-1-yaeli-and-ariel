@@ -9,12 +9,20 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 30.67,
-    "en_on_fr": 103.71,
-    "en_on_tl": 89.5,
-    "en_on_nl": 73.75
+    "en_on_en": 29.01,
+    "en_on_fr": 62.81,
+    "en_on_tl": 76.7,
+    "en_on_nl": 64.75
   },
-  "test_match": "KeyError('source')",
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 29.006254542184926,
+    "en_tl_3": 76.70231454064778,
+    "en_nl_3": 64.74851882427049
+  },
   "test_generate": {
     "english_2_gram": "I amell1Gige omyo & he't",
     "english_3_gram": "I amebompirs ans appree ",
